@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c02996ba-0ff6-4c55-90ae-63a76e48e986" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP Xampp" />
+  <component name="ProjectId" id="1XhBPk92WHx2nusqLqABXVQv2Xf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\stock\php_action" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c02996ba-0ff6-4c55-90ae-63a76e48e986" name="Default Changelist" comment="" />
+      <created>1581488423854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581488423854</updated>
+      <workItem from="1581488427462" duration="8726000" />
+      <workItem from="1581498303970" duration="3717000" />
+      <workItem from="1581502544489" duration="428000" />
+      <workItem from="1581503294256" duration="17204000" />
+      <workItem from="1581582066198" duration="2270000" />
+      <workItem from="1581590687463" duration="3763000" />
+      <workItem from="1581599136899" duration="18897000" />
+      <workItem from="1581797825485" duration="17055000" />
+      <workItem from="1582119394757" duration="14813000" />
+      <workItem from="1582203559010" duration="26104000" />
+      <workItem from="1582299815070" duration="10844000" />
+      <workItem from="1582870594154" duration="174000" />
+      <workItem from="1582870772356" duration="88000" />
+      <workItem from="1582878737580" duration="15000" />
+      <workItem from="1582878873302" duration="479000" />
+      <workItem from="1582879593945" duration="4763000" />
+      <workItem from="1582888630373" duration="11387000" />
+      <workItem from="1582905786403" duration="4930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1582878984195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1582878984195" />
+    <state x="390" y="0" key="#PHP" timestamp="1582263668535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1582263668534" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582870769037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582870769037" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1582899177426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582899177426" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1582309044071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582309044071" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582905786421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582905786421" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582892440276">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582892440276" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php_action/printOrder.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
